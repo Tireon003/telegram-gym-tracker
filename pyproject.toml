@@ -1,0 +1,7 @@
+[project]
+name = "telegram-gym-tracker"
+version = "0.1.0"
+description = "Gym tracker via Telegram bot. Client-server application"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
